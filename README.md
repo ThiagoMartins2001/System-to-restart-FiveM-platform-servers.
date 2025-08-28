@@ -92,4 +92,5 @@ Se encontrar erros de política de execução:
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 
+**Autor:** Thiago Martins 
 **Versão:** 1.1 - Agosto 2025
